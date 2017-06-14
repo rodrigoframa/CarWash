@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "367988753106",
+    "firebase_url": "https://car-washer.firebaseio.com",
+    "project_id": "car-washer",
+    "storage_bucket": "car-washer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367988753106:android:921724f9b94828c3",
+        "android_client_info": {
+          "package_name": "uemapdm.com.carwasher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367988753106-i9859sjtso26r1pf7qls4hdf1p6fg21r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uemapdm.com.carwasher",
+            "certificate_hash": "7a3898d9db1c212dbe84acc269e372123e4233cd"
+          }
+        },
+        {
+          "client_id": "367988753106-8c76nahqddcjrphdmbohu3ka8ae9qp32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQjpLePWnmZdzeCNmDquOTZOklfmUFIGc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367988753106-8c76nahqddcjrphdmbohu3ka8ae9qp32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

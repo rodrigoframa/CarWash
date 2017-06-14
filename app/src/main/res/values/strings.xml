@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CarWash</string>
+    <string name="botao_logar">Logar</string>
+    <string name="botao_cadastrar">Ainda nao tem conta? Registre-se</string>
+    <string name="recuperar_senha">Esqueceu a senha?</string>
+    <string name="fazer_login">Ja tem conta? Faça o login.</string>
+    <string name="botao_registrar">Registrar</string>
+    <string name="botao_reset">Redefinir Senha</string>
+
+    <string name="err_msg_email">Digite um email válido</string>
+    <string name="err_msg_password">Digite a senha</string>
+</resources>
